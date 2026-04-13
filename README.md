@@ -1,13 +1,11 @@
 <h1 align="center">👋 Hola, soy David</h1>
-<h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)</h3>
+<h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full Stack Developer en formación</h3>
 
 ---
 
 ## 🚀 Sobre mí
-Soy estudiante de **Desarrollo de Aplicaciones Web** enfocado en convertirme en desarrollador **Full Stack**.  
-Me gusta aprender construyendo proyectos reales y mejorar cada día mis habilidades en programación.
-
-Actualmente trabajando en proyectos con backend, frontend y bases de datos.
+Soy estudiante de **Desarrollo de Aplicaciones Web** y **Full Stack Developer en formación**.  
+Me gusta aprender construyendo proyectos reales y mejorar cada día mis habilidades en programación, trabajando tanto el frontend como el backend.
 
 ---
 
