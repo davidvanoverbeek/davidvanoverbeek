@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hola, soy David</h1>
 <h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full Stack Developer en formación</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+</p>
+
 ---
 
 ## 🚀 Sobre mí
