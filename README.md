@@ -45,12 +45,12 @@ Me gusta aprender construyendo proyectos reales y mejorar cada día mis habilida
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davidvanoverbeek&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidvanoverbeek&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=davidvanoverbeek&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ Me gusta aprender construyendo proyectos reales y mejorar cada día mis habilida
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/davidvanoverbeek/davidvanoverbeek/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
