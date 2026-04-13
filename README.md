@@ -44,6 +44,31 @@ Me gusta aprender construyendo proyectos reales y mejorar cada día mis habilida
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davidvanoverbeek&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidvanoverbeek&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=davidvanoverbeek&theme=tokyonight"/>
+</p>
+
+---
+
+## 👀 Visitas al perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davidvanoverbeek&style=for-the-badge"/>
+</p>
+
+---
+
 ## 📈 Objetivo
 Mi objetivo es conseguir mi primera oportunidad como **desarrollador web junior** y seguir creciendo profesionalmente 🚀
 
